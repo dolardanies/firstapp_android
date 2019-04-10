@@ -15,10 +15,10 @@
         android:text="TextView"
         android:textAppearance="@style/TextAppearance.AppCompat"
         android:textColor="@color/colorAccent"
-        android:textSize="18sp"
+        android:textSize="36sp"
         android:textStyle="bold"
         android:typeface="normal"
-        app:fontFamily="cursive"
+        app:fontFamily="casual"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
